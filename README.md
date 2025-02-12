@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kazi-Jahedul-Kawser
+- 👋 Hi, I’m @Md-Jahedul-Kawser
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Data Structure And Algorithm By c++
 - 💞️ I’m looking to collaborate on Problem Solving
